@@ -15,6 +15,7 @@
 	<description>National Fertilizer Information System</description>
 	<properties>
 		<java.version>11</java.version>
+		<sonar.projectKey>National-Fertilizer-Information-System</sonar.projectKey>
 	</properties>
 	<dependencies>
 		<dependency>
